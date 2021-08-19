@@ -1,0 +1,140 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1165; Version 2009; 64bit' Language: 'es' Physical Memory: 16165 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/abrah/OneDrive/Desktop/NOVENO SEMESTRE/REALIDAD-AUMENTADA Y VIRTUAL/realidad aumentada Unity/SegundoIA
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55556
+Successfully changed project path to: C:/Users/abrah/OneDrive/Desktop/NOVENO SEMESTRE/REALIDAD-AUMENTADA Y VIRTUAL/realidad aumentada Unity/SegundoIA
+C:/Users/abrah/OneDrive/Desktop/NOVENO SEMESTRE/REALIDAD-AUMENTADA Y VIRTUAL/realidad aumentada Unity/SegundoIA
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/abrah/OneDrive/Desktop/NOVENO SEMESTRE/REALIDAD-AUMENTADA Y VIRTUAL/realidad aumentada Unity/SegundoIA/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   
+    VRAM:     4027 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56836
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003377 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.399 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.694 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1737 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2170.
+Total: 2.054600 ms (FindLiveObjects: 0.138700 ms CreateObjectMapping: 0.048200 ms MarkObjects: 1.766600 ms  DeleteObjects: 0.099600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/SpawnableObject.fbx
+  artifactKey: Guid(2da541e18588d0846b369b61cb7bf6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpawnableObject.fbx using Guid(2da541e18588d0846b369b61cb7bf6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d500681de942e6c9457f1d55fb2908') in 0.350523 seconds 
+  Import took 0.355968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.463389 seconds.
+  path: Assets/SpawnableObject.fbx
+  artifactKey: Guid(2da541e18588d0846b369b61cb7bf6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpawnableObject.fbx using Guid(2da541e18588d0846b369b61cb7bf6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9a08e13b59b6615d5a990b5b0d74c9') in 0.168429 seconds 
+  Import took 0.173878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.060052 seconds.
+  path: Assets/ANIMACION/New Animator Controller.controller
+  artifactKey: Guid(e15b721c98ccde2438d2ca7f61204a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ANIMACION/New Animator Controller.controller using Guid(e15b721c98ccde2438d2ca7f61204a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6ce4e52ec0f3d17e8346a12d6c931f') in 0.012028 seconds 
+  Import took 0.015241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006054 seconds.
+  path: Assets/ANIMACION/New Animator Controller.controller
+  artifactKey: Guid(e15b721c98ccde2438d2ca7f61204a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ANIMACION/New Animator Controller.controller using Guid(e15b721c98ccde2438d2ca7f61204a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6ce4e52ec0f3d17e8346a12d6c931f') in 0.005451 seconds 
+  Import took 0.010553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.144563 seconds.
+  path: Assets/ANIMACION/abraham.controller
+  artifactKey: Guid(e15b721c98ccde2438d2ca7f61204a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ANIMACION/abraham.controller using Guid(e15b721c98ccde2438d2ca7f61204a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766676eb7d4b1be7b57526907b8125d5') in 0.004667 seconds 
+  Import took 0.009240 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 14.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.1 MB.
+System memory in use after: 59.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2215.
+Total: 13.228900 ms (FindLiveObjects: 0.430800 ms CreateObjectMapping: 0.156400 ms MarkObjects: 12.517700 ms  DeleteObjects: 0.120700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
